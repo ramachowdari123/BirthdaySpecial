@@ -1,0 +1,14 @@
+.background{
+    background-image: url("143.gif");
+    background-size: cover;
+   width:100vw;
+   height:150vh;
+   position: fixed;
+}
+.image{
+    height:250px;
+    width:250px;
+    border-radius:130px;
+    margin:20px;
+    margin-top:150px;
+}
